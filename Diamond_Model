@@ -1,0 +1,52 @@
+Diamond Model
+
+Four Core features
+  Adversary
+  infrastructure
+  capability
+  victim
+
+Adversary aka Attacker
+  Adversary - an actor or organization responsible for utilizing a capbility against the victim to achieve their intent.
+
+  Adversary Operator - the “hacker” or person(s) conducting the intrusion activity.
+
+  Adversary Customer - the entity that stands to benefit from the activity conducted in the intrusion. It may be the same person who stands behind the adversary operator, or it may be a separate person or group.
+
+Victim
+  Victim – is a target of the adversary
+
+  Victim Personae - the people and organizations being targeted and whose assets are being attacked and exploited
+
+  Victim Assets - the attack surface and include the set of systems, networks, email addresses, hosts, IP addresses, social networking accounts, etc., to which the adversary will direct their capabilities.
+
+Capability
+  Capability – the skill, tools, and techniques used by the adversary in the event
+
+  Capability Capacity - all of the vulnerabilities and exposures that the individual capability can use
+
+  Adversary Arsenal - a set of capabilities that belong to an adversary
+
+Infrastructure
+  Infrastructure – software or hardware
+
+  Type 1 Infrastructure - the infrastructure controlled or owned by the adversary
+
+  Type 2 Infrastructure - the infrastructure controlled by an intermediary
+
+  Service Providers - organizations that provide services considered critical for the adversary availability of Type 1 and Type 2 Infrastructures
+
+Event Meta Features
+  6 possible meta features. Not required
+    Timestamp
+    Phase
+    Result
+    Direction
+    Methodologies
+    Resources
+
+Socio-Political Component
+  social-political component - the needs and intent of the adversary, for example, financial gain, gaining acceptance in the hacker community, hacktivism, or espionage
+
+Technology Componenet
+  Technology – the technology meta-feature or component highlights the relationship between the core features: capability and infrastructure
