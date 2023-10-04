@@ -1,0 +1,15 @@
+Unified Kill Chain
+
+Threat Modeling
+  a series of steps to ultimately improve the security of a system. Basically just identifying risk
+    This Includes
+    1. Indetifying what systems and applications need to be secured and what function they serve in the environment
+    2. Assessing what vulnerabilities and weaknesses these systems and applications may have and how they could potentially be exploited
+    3. Creating a plan of action to secure these systems and applications from the vulnerabilities highlighted
+    4. Putting in policies to prevent these vulnerabilities from occurring again where possible
+
+Benefits of UKC vs other traditional kill chain frameworks:
+  1. Modernity
+  2. Extremely detailed (18 phases)
+
+Credential dumping
