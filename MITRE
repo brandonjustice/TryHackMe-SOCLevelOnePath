@@ -1,0 +1,31 @@
+MITRE
+
+ATT&CK
+  A globally-accessible knowledge base of adversary tactics and techniques based on real-worls observations
+
+CAR
+  a knowledge base of analytics developed by MITRE based on the MITRE ATT&CK® adversary model
+
+MITRE ENGAGE
+  a framework for planning and discussing adversary engagement operations that empowers you to engage your adversaries and achieve your cybersecurity goals.
+  Considered an Adversary Engagement Approach
+  Cyber Denial - prevention of the adversary's ability to conduct their operations
+
+  Cyber Deception - intentionally planting artifacts to mislead the adversary
+
+  5 categories
+    Prepare the set of operational actions that will lead to your desired outcome (input)
+    Expose adversaries when they trigger your deployed deception activities 
+    Affect adversaries by performing actions that will have a negative impact on their operations
+    Elicit information by observing the adversary and learn more about their modus operandi (TTPs)
+    Understand the outcomes of the operational actions (output) 
+
+D3FEND
+  A knowledge graph of cybersecurity countermeasures
+  Stands for Detection, Denial, and Disruption Framework Empowering Network Defense
+
+ATT&CK Emulation Plans
+  CTID - Organization (Center of Threat-Informed Defense) that consists of various companies and vendors that conduct research on cyber threats and their TTPs and share research to improve cyber defense
+
+ATT&CK and Threat Intelligence
+  
