@@ -1,2 +1,36 @@
 UrlScan.io
   free service developed to assist in scanning and analysing websites. Automates the process of browsing and crawling through websites to record activities and interactions
+
+  Provides following info:
+    Summary of site including URL, IP Address, domain registartions details
+    HTTP connections
+    Redirects
+    Links shown on the site
+    Behaviour of cookies
+    indicators
+
+Abuse.ch
+  research project developed to identify and track malware and botnets through several operational platforms developed under the project
+
+  Platforms
+    Malware Bazaar
+    Feodo Tracker
+    SSL Blacklist
+    URL Haus
+    Threat Fox
+
+PhishTool
+    PhishTool seeks to elevate the perception of phishing as a severe form of attack and provide a responsive means of email security
+
+    Two Versions
+      Community
+      Enterprise
+
+Cisco Talos Intelligence
+  Six Key Teams:
+    Threat Intelligence and Interdiction
+    Detection REsearch
+    Engineering and Development
+    Vulnerability Research and Discovery
+    Communities
+    Global Outreach
