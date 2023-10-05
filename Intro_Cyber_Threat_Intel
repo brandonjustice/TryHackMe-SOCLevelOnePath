@@ -1,0 +1,34 @@
+Intro to Cyber Threat Intel (CTI)
+  Cyber Threat Intelligence - evidence-based knowledge about adversaries, including their indicators, tactics, motivations, and actionable advice against them.
+
+  Data - Discrete indicators associated with an adversary, such as IP addresses, URLs or hashes
+
+  Information - A combination of multiple data points that answer questions such as "How many times have employees accessed tryhackme.com withing the month?"
+
+  Intelligence - The correlation of data and information to extract patterns of actions based on contextual analysis
+
+  Threat Intelligence Classifications
+    Strategic Intel: High-level intel that looks into the organization's threat landscape and maps out the risk areas based on trends, patterns and emerging threats that may impact business decisions
+    Technical Intel: Looks into evidence and artifacts of attack used by an adversary
+    Tactical Intel: Assesses adversaries' tactics, techniques and procedures
+    Operational Intel: Looks into an adversary's specific motives and intent to perform an attack
+
+CTI Lifecycle
+  Six Phase Cycle
+    Direction - defined goals
+    Collection
+    processing
+    Analysis
+    Dissemination
+    Feedback
+
+CTI Standards and Frameworks
+  Standards and frameworks provide structures to rationalise the distribution and use of threat intel across industries.
+  MITRE ATT&CK
+    knowledge base of adversary behaviour
+  TAXII
+    The Trusted Automated eXchange of Indicator Information (TAXII) defines protocols for securely exchanging threat intel to have near real-time detection, prevention and mitigation of threats. 
+  STIX
+    Structured Threat Information Expression (STIX) is a language developed for the "specification, capture, characterisation and communication of standardised cyber threat information"
+  Cyber Kill Chain
+  Diamond Model
