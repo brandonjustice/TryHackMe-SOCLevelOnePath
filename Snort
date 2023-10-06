@@ -1,0 +1,15 @@
+Snort - Open Source, rule based Network Intrusion Detection and Prevention System (NIDS/NIPS)
+
+Three Main detection and prevention techniques in IDS and IPS
+  Signature Based - relies on rules that identify the specific patterns of the known malicious behaviour
+  Behviour Based - identifies new threat with new patterns that pass through signatures
+  Policy Based - compares detected activities with system configuration and security policies
+
+Snort has three main use models;
+  Sniffer Mode - Read IP packets and prompt them in the console application
+  Packet Logger Mode - Log all IP packets (inbound and outbound) that visit the network
+  NIDS (Network Intrusion Detection System) and NIPS Modes - Log/drop the packets that are deemed as malicious according to the user-defined rules
+
+Snort can run similar to tcpdump to view various data about the packet it is ingestingsudo snort -v
+
+You can use Snort as a sniffer and log the sniffed packets via logger mode
